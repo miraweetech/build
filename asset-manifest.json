@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23a0e822.chunk.css",
+    "main.js": "/static/js/main.a27c1cbf.chunk.js",
+    "main.js.map": "/static/js/main.a27c1cbf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.da0bf287.js",
+    "runtime-main.js.map": "/static/js/runtime-main.da0bf287.js.map",
+    "static/css/2.29623b5c.chunk.css": "/static/css/2.29623b5c.chunk.css",
+    "static/js/2.edb1d037.chunk.js": "/static/js/2.edb1d037.chunk.js",
+    "static/js/2.edb1d037.chunk.js.map": "/static/js/2.edb1d037.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2dd7c114457140149ba2e5567ac8c40b.js": "/precache-manifest.2dd7c114457140149ba2e5567ac8c40b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.29623b5c.chunk.css.map": "/static/css/2.29623b5c.chunk.css.map",
+    "static/css/main.23a0e822.chunk.css.map": "/static/css/main.23a0e822.chunk.css.map",
+    "static/media/Asset 7@3x-8.png": "/static/media/Asset 7@3x-8.7b938522.png",
+    "static/media/flaticon.css": "/static/media/Flaticon2.eafcbac0.ttf",
+    "static/media/ki.css": "/static/media/Ki.a64552c2.woff",
+    "static/media/No data-bro.svg": "/static/media/No data-bro.c10078fc.svg",
+    "static/media/add_option.svg": "/static/media/add_option.570b60cb.svg",
+    "static/media/delete_field.svg": "/static/media/delete_field.d18f22ff.svg",
+    "static/media/delete_option.svg": "/static/media/delete_option.a6e485c4.svg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.ec763292.svg",
+    "static/media/socicon.css": "/static/media/socicon.a35b6574.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da0bf287.js",
+    "static/css/2.29623b5c.chunk.css",
+    "static/js/2.edb1d037.chunk.js",
+    "static/css/main.23a0e822.chunk.css",
+    "static/js/main.a27c1cbf.chunk.js"
+  ]
+}
